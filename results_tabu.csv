@@ -1,0 +1,4 @@
+params,best,worst,avg,std
+"{'tabu_tenure': 10, 'max_iterations': 100}",931.3,1261.3,1069.8,101.5
+"{'tabu_tenure': 20, 'max_iterations': 150}",921.4,1085.2,1014.3,51.1
+"{'tabu_tenure': 30, 'max_iterations': 200}",897.8,1171.0,1065.9,87.5

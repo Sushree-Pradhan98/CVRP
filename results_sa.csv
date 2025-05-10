@@ -1,0 +1,4 @@
+params,best,worst,avg,std
+"{'initial_temp': 1000, 'cooling_rate': 0.99, 'min_temp': 1}",1043.1,1221.5,1150.8,55.7
+"{'initial_temp': 500, 'cooling_rate': 0.98, 'min_temp': 5}",1286.3,1572.7,1388.2,84.9
+"{'initial_temp': 1500, 'cooling_rate': 0.95, 'min_temp': 10}",1445.5,1941.1,1676.7,133.3
